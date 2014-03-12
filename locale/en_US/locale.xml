@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/generic/disqus/locale/en_US/locale.xml
+  *
+  * Copyright (c) 2013 Simon Fraser University Library
+  * Copyright (c) 2003-2013 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings.
+  -->
+ 
+<locale name="en_US" full_name="U.S. English">
+	<message key="plugins.generic.disqus.displayName">Disqus Plugin</message>
+	<message key="plugins.generic.disqus.description">This plugin provides Disqus comments for articles.</message>
+	<message key="plugins.generic.disqus.title">Discussion</message>
+	<message key="plugins.generic.disqus.jswarning">Please enable JavaScript to view the discussion powered by</message> 
+	<message key="plugins.generic.disqus.manager.settings">Settings</message>
+	<message key="plugins.generic.disqus.manager.disqusSettings">Disqus Settings</message>
+	<message key="plugins.generic.disqus.manager.settings.description">To enable Disqus discussions for articles you will need to register with Disqus - https://disqus.com/profile/signup/. Once you have an account you will need to create a new site - http://disqus.com/admin/create/. For example, a site created with the title "My Journal" would be given a default Disqus management URL of http://myjournal.disqus.com, where "myjournal" is referred to as the site's "shortname" and is required below.</message>
+	<message key="plugins.generic.disqus.manager.settings.disqusShortname">Disqus Shortname</message>
+	<message key="plugins.generic.disqus.manager.settings.disqusShortnameInstructions">Please provide the Disqus Shortname that was registered with Disqus.</message>
+	<message key="plugins.generic.disqus.manager.settings.disqusShortnameRequired">The Disqus Shortname is required.</message>
+	<message key=""></message>
+</locale>
